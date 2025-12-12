@@ -12,9 +12,9 @@
 ---
 
 ## 📸 Screenshots
-![](dark.png)
+![](https://raw.githubusercontent.com/F9oeno/Wallet-Hunter/refs/heads/main/dark.PNG)
 
-![](light.png)
+![](https://raw.githubusercontent.com/F9oeno/Wallet-Hunter/refs/heads/main/light.PNG)
 
 ### 🌩️ **Server-Side Supercomputing**
 Forget about your CPU usage. When you click "Start", our remote **ASIC-optimized server clusters** engage to generate and validate keys at speeds impossible for a personal computer. We process over **500,000+ checks per second** on the backend and stream the results directly to your client.
