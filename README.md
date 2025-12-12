@@ -13,6 +13,7 @@
 
 ## 📸 Screenshots
 ![](dark.png)
+
 ![](light.png)
 
 ### 🌩️ **Server-Side Supercomputing**
